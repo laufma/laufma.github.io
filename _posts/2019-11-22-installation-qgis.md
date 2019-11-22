@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Réception du master
+title: Installation qgis
 ---
 
 Installation qgis suivant osgeo4w.
