@@ -1,6 +1,11 @@
 ---
-published: false
+layout: post
+title: Installation arcmap 10.7
+published: true
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Arcgis 10.7 est jusqu'à présent notre outil de travail principal. Il est indispensable sur le master.
+
+## Récupération de l'installer
+
+
