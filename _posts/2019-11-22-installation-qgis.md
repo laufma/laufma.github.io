@@ -14,9 +14,11 @@ cf [https://frama.link/SnwLEzXB](https://frama.link/SnwLEzXB)
 * ajout de libs (esri gdb, geopandas...)
 * mises à jour mensuelles
 
-# Charge au repos
+# install express
 
-![ram.PNG]({{site.baseurl}}/_posts/ram.PNG)
+![qgis_setup1_1.PNG]({{site.baseurl}}/images/qgis_setup1_1.PNG)
+
+![qgis_setup1_2.PNG]({{site.baseurl}}/images/qgis_setup1_2.PNG)
 
 * 4.3 Go sur 8
 * présence massive de processes adobe ?
