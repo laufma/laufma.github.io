@@ -6,9 +6,9 @@ published: true
 
 Arcmap 10.x est jusqu'à présent notre outil de travail principal. Il est indispensable sur le master.
 
-## Récupération de l'installer
+## Installeurs
 
-Sur https://my.esri.fr, télécharger
+Sur https://my.esri.fr, on télécharge puis installe, dans l'ordre
 1. ArcGIS_Desktop_1071_fr_169511.exe
 2. ArcGIS_Desktop_BackgroundGP_1071_fr_169532.exe
 3. ArcGIS_License_Manager_Windows_2019_0_fr_169349.exe
