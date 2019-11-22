@@ -20,5 +20,3 @@ cf [https://frama.link/SnwLEzXB](https://frama.link/SnwLEzXB)
 
 ![qgis_setup1_2.PNG]({{site.baseurl}}/images/qgis_setup1_2.PNG)
 
-* 4.3 Go sur 8
-* présence massive de processes adobe ?
