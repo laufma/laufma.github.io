@@ -6,7 +6,7 @@ published: true
 
 Installation qgis suivant osgeo4w.
 
-# Rappel de la procédure:
+## Rappel de la procédure:
 
 cf [https://frama.link/SnwLEzXB](https://frama.link/SnwLEzXB)
 
@@ -14,7 +14,7 @@ cf [https://frama.link/SnwLEzXB](https://frama.link/SnwLEzXB)
 * ajout de libs (esri gdb, geopandas...)
 * mises à jour mensuelles
 
-# install express
+## install express
 
 ![qgis_setup1_1.PNG]({{site.baseurl}}/images/qgis_setup1_1.PNG)
 
