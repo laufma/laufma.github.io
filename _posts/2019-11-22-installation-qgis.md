@@ -35,4 +35,4 @@ cf [https://frama.link/SnwLEzXB](https://frama.link/SnwLEzXB)
 
 ![about_qgis.PNG]({{site.baseurl}}/images/about_qgis.PNG)
 
-A noter: la version 3.10.0 connaît quelques bugs (notamment accès au plugin grass). On y remédiera en installant la version ltr (advanced>qgis-ltr-full metapackage).
+> A noter: la version 3.10.0 connaît quelques bugs (notamment accès au plugin grass). On y remédiera en installant la version ltr (advancedqgis-ltr-full metapackage).
