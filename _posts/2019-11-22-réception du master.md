@@ -3,8 +3,12 @@ layout: post
 title: Réception du master
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Master réceptionné le 22/11/2019 à 10h30.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Etat des lieux:
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml]({{ site.baseurl }}/images/system.png)
+
+* xeon gold 5215 @ 2.5 GHz (x2)
+* 8 Go RAM
+* win 10 activé
