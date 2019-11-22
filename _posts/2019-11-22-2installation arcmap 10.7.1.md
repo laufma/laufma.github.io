@@ -17,5 +17,5 @@ Sur https://my.esri.fr, on télécharge puis installe, dans l'ordre
 ## Post-install
 
 * suppression des dossiers de décompression dans `C:\Users\laufma\Documents`
-* configuration du gestionnaire de licences
+* mise à jour du gestionnaire de licences sur SRV-SIG
 * configuration des connexions aux serveurs de données
