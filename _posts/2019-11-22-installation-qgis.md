@@ -30,3 +30,7 @@ cf [https://frama.link/SnwLEzXB](https://frama.link/SnwLEzXB)
 ![qgis_setup2_filegdb.PNG]({{site.baseurl}}/images/qgis_setup2_filegdb.PNG)
 
 ![qgis_setup2_geopandas.PNG]({{site.baseurl}}/images/qgis_setup2_geopandas.PNG)
+
+## bilan
+
+![about_qgis.PNG]({{site.baseurl}}/images/about_qgis.PNG)
