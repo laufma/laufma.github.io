@@ -14,4 +14,8 @@ Sur https://my.esri.fr, on télécharge puis installe, dans l'ordre
 3. ArcGIS_License_Manager_Windows_2019_0_fr_169349.exe
 4. ArcGIS_Data_Interop_for_Desktop_1071_169540.exe
 
+## Post-install
 
+* suppression des dossiers de décompression dans `C:\Users\laufma\Documents`
+* configuration du gestionnaire de licences
+* configuration des connexions aux serveurs de données
