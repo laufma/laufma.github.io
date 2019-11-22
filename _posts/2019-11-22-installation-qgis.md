@@ -20,3 +20,13 @@ cf [https://frama.link/SnwLEzXB](https://frama.link/SnwLEzXB)
 
 ![qgis_setup1_2.PNG]({{site.baseurl}}/images/qgis_setup1_2.PNG)
 
+## install avancée
+
+* ajout du driver esri fileGDB
+* ajout du module python geopandas ([http://geopandas.org/](http://geopandas.org/))
+
+![qgis_setup2_1.PNG]({{site.baseurl}}/images/qgis_setup2_1.PNG)
+
+![qgis_setup2_filegdb.PNG]({{site.baseurl}}/images/qgis_setup2_filegdb.PNG)
+
+![qgis_setup2_geopandas.PNG]({{site.baseurl}}/images/qgis_setup2_geopandas.PNG)
