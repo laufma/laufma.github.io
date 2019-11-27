@@ -5,7 +5,7 @@ title: Réception du master
 
 Master réceptionné le 22/11/2019 à 10h30.
 
-# Etat des lieux:
+## Etat des lieux:
 
 ![_config.yml]({{ site.baseurl }}/images/system.PNG)
 
@@ -13,7 +13,7 @@ Master réceptionné le 22/11/2019 à 10h30.
 * 8 Go RAM
 * win 10 activé
 
-# Charge au repos
+## Charge au repos
 
 ![_config.yml]({{ site.baseurl }}/images/ram.PNG)
 
