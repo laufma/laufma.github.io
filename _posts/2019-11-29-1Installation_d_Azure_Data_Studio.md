@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installatio d'Azure Data Studio
+title: Installation d'Azure Data Studio
 ---
 
 Azure Data Studio est un outil de gestion de bases de données multiplateformes: il peut notamment centraliser les connexions à sql server et postgres
