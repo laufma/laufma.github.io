@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Réception du master
+title: Installatio de R/Rstudio
 ---
 
 R est un logiciel opensource de traitement statistique - big data
