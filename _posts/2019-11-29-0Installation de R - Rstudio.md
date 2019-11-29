@@ -22,5 +22,6 @@ img
 
 ## démarrage
 
-L'éxéxutable est ici:
+L'éxécutable est ici:
+
 `C:\Program Files\RStudio\bin\rstudio.exe`
