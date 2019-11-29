@@ -13,13 +13,13 @@ L'installation se fera selon la méthode exposée ici: http://larmarange.github.
 
 téléchargement (https://cran.r-project.org/bin/windows/base/) et installation:
 
-img
+![Rwindows361_install.PNG]({{ site.baseurl }}/images/Rwindows361_install.PNG)
 
 ## Installation de Rstudio (1.2.5019)
 
 Téléchargement (https://rstudio.com/products/rstudio/download/) de la version opensource desktop stable
 
-img
+![rstudio_install.PNG]({{ site.baseurl }}/images/rstudio_install.PNG)
 
 ## démarrage
 
