@@ -86,5 +86,4 @@ exclude:
   - CNAME
 
 # Jekyll Theme
-
 theme: jekyll-theme-cayman
