@@ -3,6 +3,8 @@ layout: post
 title: Installations diverses et ajustage PATH
 ---
 
+Finalisation de l'installation en prévision de la session de tests collectifs.
+
 ## Installations diverses
 
 * winSCP - Putty: installation depuis les repos officiels (Putty.exe posé dans le dossier par défaut, communication établie).
